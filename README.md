@@ -133,6 +133,7 @@ Potential misuse in creating deepfake content, automated spam, or misinformation
 Calls for ethical AI governance and regulatory frameworks.
 
 7. Future Prospects of Generative AI & LLMs
+
 7.1. More Efficient and Responsible AI
 •
 Development of smaller, energy-efficient models with comparable capabilities.
